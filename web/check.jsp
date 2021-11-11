@@ -1,7 +1,7 @@
 <%-- 
     Document   : check
     Created on : Jun 12, 2019, 2:28:41 AM
-    Author     : MAHENDRA
+    Author     : raju
 --%>
 <%@page contentType="text/html" import="java.sql.*" pageEncoding="UTF-8"%>
 <%@page import="javax.servlet.http.Cookie" %>
